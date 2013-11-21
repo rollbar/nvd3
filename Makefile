@@ -24,6 +24,8 @@ JS_FILES = \
 	src/models/multiBarChart.js \
 	src/models/multiBarHorizontal.js \
 	src/models/multiBarHorizontalChart.js \
+	src/models/multiBarTimeSeries.js \
+	src/models/multiBarTimeSeriesChart.js \
 	src/models/multiChart.js \
 	src/models/ohlcBar.js \
 	src/models/pie.js \
